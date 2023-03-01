@@ -1,0 +1,28 @@
+.tabela {
+    border: 1px solid #ccc;
+    margin: 0 auto;
+
+}
+
+.tabelaItem {
+    border: 1px solid #ccc;
+}
+
+.tabelaTitulo {
+    border-bottom: 1px solid #ccc;
+    font-weight: bold;
+    background-color: #ccc;
+}
+
+.tabelaImc {
+    font-weight: bold;
+    padding: 0px 16px;
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+}
+
+.tabelaClassificacao {
+    text-align: center;
+    padding: 0px 16px;
+    border-bottom: 1px solid #ccc;
+}

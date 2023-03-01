@@ -1,0 +1,33 @@
+.form {
+    margin: 0 auto;
+    display: block;
+}
+
+.formInput {
+    display: flex;
+    
+}
+
+/* .button {
+    margin: 16px;
+    padding: 0 16px;
+    text-align: center;
+} */
+
+.button:hover {
+    cursor: pointer;
+}
+
+.resultado__resposta {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.resultado {
+    border: 1px solid black;
+    margin: 16px 0;
+    font-size: 32px;
+    background-color: #d1d8e0;
+}
+
+
